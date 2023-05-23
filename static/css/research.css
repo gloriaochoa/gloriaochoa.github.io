@@ -1,0 +1,22 @@
+nav {
+    background-color: #baaacb;
+}
+
+.btn {
+    background-color: #baaacb;
+    border-color: #fff;
+}
+
+.btn:hover {
+    background-color: #baaacb;
+    border-color: #baaacb;
+}
+
+.btn:active {
+    background-color: #baaacb;
+    border-color: #fff;
+}
+.btn:visited {
+    background-color: #baaacb;
+    border-color: #fff;
+}
