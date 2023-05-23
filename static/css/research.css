@@ -20,3 +20,17 @@ nav {
     background-color: #baaacb;
     border-color: #fff;
 }
+
+.mail {
+
+    color: #baaacb;
+}
+.mail:visited {
+    color: #baaacb;
+}
+.mail:hover {
+    color: #baaacb;
+}
+.mail:active {
+    color: #baaacb;
+}
