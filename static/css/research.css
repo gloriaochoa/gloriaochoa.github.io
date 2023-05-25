@@ -34,3 +34,7 @@ nav {
 .mail:active {
     color: #baaacb;
 }
+
+canvas {
+    height:600px;
+}
